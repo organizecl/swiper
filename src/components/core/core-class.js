@@ -21,7 +21,7 @@ import manipulation from './manipulation/index';
 import events from './events/index';
 import breakpoints from './breakpoints/index';
 import classes from './classes/index';
-import images from './images/index';
+import images from './images-coda/index';
 import checkOverflow from './check-overflow/index';
 
 import defaults from './defaults';
